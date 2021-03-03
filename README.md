@@ -1,4 +1,4 @@
-# homework and projects
+homework and projects
 
 
 # Certificates
